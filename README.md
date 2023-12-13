@@ -1,0 +1,3 @@
+# BackgroundGenerator
+
+Generates random colors
